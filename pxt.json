@@ -1,11 +1,12 @@
 {
-    "name": "CarTransmissor_Jamal",
+    "name": "CarSend_Jamal",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "CarSend": "github:hackidsedu/carsend#5736d87824a14628f8f17901dbb3ceb513005926"
+        "CarSend": "github:hackidsedu/carsend#5736d87824a14628f8f17901dbb3ceb513005926",
+        "hackbit": "github:hackidsedu/pxt-hackbit#v1.0.12"
     },
     "files": [
         "main.blocks",
